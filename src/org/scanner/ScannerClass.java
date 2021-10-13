@@ -35,5 +35,6 @@ public class ScannerClass {
 		System.out.println("Enter Employee City");
 		String City=pr.nextLine();
 		System.out.println("Employee City:"+City);
+		System.out.println("hai");System.out.println("hello");
 	}   
 }
